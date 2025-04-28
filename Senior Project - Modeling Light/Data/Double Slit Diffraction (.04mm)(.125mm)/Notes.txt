@@ -1,0 +1,6 @@
+To capture these interference patterns we have light passing through a double slit with a width of .04 mm and separation of .125 mm.
+
+The distance between the slits and the screen is going to be 90 cm.
+
+ - Take 2 (.1 detector)
+ - Take 1 (.2 detector)

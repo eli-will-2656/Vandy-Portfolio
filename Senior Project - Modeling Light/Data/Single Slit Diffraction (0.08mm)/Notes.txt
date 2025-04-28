@@ -1,0 +1,8 @@
+To capture these interference patterns we have light passing through a single slit with a width of .08 mm.
+The distance between the slit and the screen is going to be .9s m.
+
+Need to decrease the size of the light detector slit from .05 -> .01.
+Ranking of takes:
+ - Take 3
+ - Take 2
+ - Take 1
